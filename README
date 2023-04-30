@@ -1,1 +1,10 @@
 This repo is a simple project that shows how to connect to a local database via the jdbc.core.JdbcTemplate.
+
+Using SpringInitializr selected:
+ - Spring Web 
+ - Spring Data
+ - Oracle Driver
+ 
+ Added in the IntelliJ project later:
+ -Lombok
+ 
