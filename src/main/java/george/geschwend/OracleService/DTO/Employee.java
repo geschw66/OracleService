@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * @author George C. Geschwend
  * @date 4/30/2023 3:50 PM
- * @project OralceService
+ * @project OracleService
  */
 
 @Data
