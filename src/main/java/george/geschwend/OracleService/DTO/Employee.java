@@ -1,4 +1,4 @@
-package DTO;
+package george.geschwend.OracleService.DTO;
 
 import lombok.*;
 
